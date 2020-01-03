@@ -10,7 +10,7 @@ class City extends React.Component{
         return {
             title: city.city,
             headerTitleStyle: {
-                color: 'white',
+                color: colors.primary,
                 fontSize: 20,
                 fontWeight: '400'
             }
